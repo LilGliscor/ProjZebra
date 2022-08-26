@@ -1,2 +1,0 @@
-# ProjZebra
-An second try
